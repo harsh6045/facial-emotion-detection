@@ -1,4 +1,4 @@
-# Face Expression Detection
+# Face Emotion Detection
 
 This project implements a face expression detection system using machine learning techniques. It can identify various facial expressions in images or real-time video streams.
 
